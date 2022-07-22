@@ -5,4 +5,4 @@ let selection = {
     description: `random image`
 }
 let selection_json = JSON.stringify(selection);
-Cookies.set(` user_selection` , selection_json);
+Cookies.set(`user_selection` , selection_json);
